@@ -1,0 +1,16 @@
+
+
+div[class*="stTextArea"] label p {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  div[class*="stTextInput"] label p {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  div[class*="stNumberInput"] label p {
+    font-size: 20px;
+    font-weight: bold;
+  }
